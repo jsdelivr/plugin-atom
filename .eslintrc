@@ -1,13 +1,18 @@
 {
 	"extends": "@martin-kolarik/eslint-config",
 	"globals": {
-    "atom": true
+		"atom": true
 	},
-  "rules": {
-    "node/no-missing-import": ["error", {
-            "allowModules": ["atom"]
-        }]
-    },
+	"rules": {
+		"node/no-missing-import": [
+			"error",
+			{
+				"allowModules": [
+					"atom"
+				]
+			}
+		]
+	},
 	"plugins": [
 		"html"
 	]

@@ -1,26 +1,26 @@
 {
-  "context-menu": {
-    "atom-text-editor": [
-      {
-        "label": "Add package",
-        "command": "jsDelivr:Add package"
-      }
-    ]
-  },
-  "menu": [
-    {
-      "label": "Packages",
-      "submenu": [
-        {
-          "label": "jsDelivr",
-          "submenu": [
-            {
-              "label": "Add package",
-              "command": "jsDelivr:Add package"
-            }
-          ]
-        }
-      ]
-    }
-  ]
+	"context-menu": {
+		"atom-text-editor": [
+			{
+				"label": "Add package",
+				"command": "jsdelivr:Add package"
+			}
+		]
+	},
+	"menu": [
+		{
+			"label": "Packages",
+			"submenu": [
+				{
+					"label": "jsDelivr",
+					"submenu": [
+						{
+							"label": "Add package",
+							"command": "jsDelivr:Add package"
+						}
+					]
+				}
+			]
+		}
+	]
 }
