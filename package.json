@@ -4,7 +4,7 @@
 	"version": "0.0.0",
 	"description": "Quickly insert packages from jsDelivr",
 	"activationCommands": {
-		"atom-workspace": "jsDelivr:Add package"
+		"atom-workspace": "jsDelivr:Add jsDelivr package"
 	},
 	"repository": "https://github.com/jsdelivr/plugin-atom",
 	"license": "MIT",
