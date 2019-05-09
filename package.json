@@ -15,7 +15,8 @@
 		"algoliasearch": "^3.32.0",
 		"atom-space-pen-views": "^2.2.0",
 		"got": "^9.6.0",
-		"semver": "^6.0.0"
+		"semver": "^6.0.0",
+		"open": "^6.2.0"
 	},
 	"devDependencies": {
 		"@martin-kolarik/eslint-config": "^1.0.6",
