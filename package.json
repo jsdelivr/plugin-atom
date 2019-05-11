@@ -1,7 +1,7 @@
 {
 	"name": "jsdelivr",
 	"main": "./lib/package.js",
-	"version": "0.0.0",
+	"version": "1.0.0",
 	"description": "Quickly insert any npm package from jsDelivr CDN",
 	"activationCommands": {
 		"atom-workspace": "jsDelivr:Add jsDelivr package"
