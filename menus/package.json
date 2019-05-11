@@ -1,12 +1,12 @@
 {
 	"context-menu": {
-    "atom-text-editor": [
-      {
+		"atom-text-editor": [
+			{
 				"label": "Add jsDelivr package",
 				"command": "jsDelivr:Add jsDelivr package"
-      }
-    ]
-  },
+			}
+		]
+	},
 	"menu": [
 		{
 			"label": "Packages",
