@@ -2,12 +2,12 @@
 	"name": "jsdelivr",
 	"main": "./lib/package.js",
 	"version": "1.0.1",
+	"license": "OSL-3.0",
 	"description": "Quickly insert any npm package from jsDelivr CDN",
 	"activationCommands": {
 		"atom-workspace": "jsDelivr:Add jsDelivr package"
 	},
 	"repository": "https://github.com/jsdelivr/plugin-atom",
-	"license": "GPL-3.0-only",
 	"engines": {
 		"atom": "^1.0.0"
 	},
