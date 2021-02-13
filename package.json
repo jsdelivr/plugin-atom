@@ -1,7 +1,7 @@
 {
 	"name": "jsdelivr",
 	"main": "./lib/package.js",
-	"version": "1.0.1",
+	"version": "1.0.2",
 	"license": "OSL-3.0",
 	"description": "Quickly insert any npm package from jsDelivr CDN",
 	"activationCommands": {
