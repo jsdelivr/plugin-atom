@@ -12,19 +12,20 @@
 		"atom": "^1.0.0"
 	},
 	"dependencies": {
-		"algoliasearch": "^3.32.0",
+		"algoliasearch": "^3.35.1",
 		"atom-space-pen-views": "^2.2.0",
 		"got": "^9.6.0",
-		"semver": "^6.0.0",
-		"open": "^6.2.0"
+		"open": "^6.4.0",
+		"semver": "^6.3.0"
 	},
 	"devDependencies": {
-		"@martin-kolarik/eslint-config": "^1.0.6",
-		"eslint": "^5.15.3",
-		"eslint-plugin-chai-expect": "^2.0.1",
-		"eslint-plugin-html": "^5.0.3",
-		"eslint-plugin-node": "^8.0.1",
-		"eslint-plugin-promise": "^4.0.1"
+		"@martin-kolarik/eslint-config": "^4.0.0",
+		"eslint": "^7.20.0",
+		"eslint-plugin-chai-expect": "^2.2.0",
+		"eslint-plugin-html": "^6.1.1",
+		"eslint-plugin-node": "^11.1.0",
+		"eslint-plugin-prefer-let": "^1.1.0",
+		"eslint-plugin-promise": "^4.3.1"
 	},
 	"scripts": {
 		"lint": "eslint lib",
